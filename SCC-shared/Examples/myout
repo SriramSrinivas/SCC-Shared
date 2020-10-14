@@ -1,0 +1,14 @@
+Reading test2.txt ... Done,  0.000294
+Creating graph ... Done,  0.000001, n: 12, m: 11
+Doing Multistep ... Performing Trim step ... 
+	Done,  0.000007, 4 verts trimmed
+Performing FWBW step ... 
+	Done,  0.000022, -1 verts found
+Performing Coloring step ... 
+	Done,  0.000001, 0 sccs found
+Performing Serial step ... 
+	Done,  0.000001, 7 sccs found
+TOTAL:  0.000099
+Multistep SCC time:  0.000124
+Num SCCs: 12, Nontrivial: 0, Max SCC: 1, Unassigned 0
+Done,  0.000139
